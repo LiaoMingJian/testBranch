@@ -1,2 +1,2 @@
 test both modify
-modifying by me
+fixing conflict 
