@@ -1,2 +1,4 @@
 test both modify
-fixing the merging conflict in dev by Joe
+test modification in other people
+test modification in other people 02 and rebase
+test modification by Joe
