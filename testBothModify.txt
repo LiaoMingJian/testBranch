@@ -1,2 +1,3 @@
 test both modify
-fixing the merge conflict in main by joe
+test modification in other people
+test modification in other people 02 and rebase
