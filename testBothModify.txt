@@ -1,2 +1,2 @@
 test both modify
-fixing the merge conflict by other people
+fixing the merging conflict in dev by Joe
